@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Product } from './_models/product/product.model';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-app';
+
+
+  // addedProduct:ProductWithCounter[]=[];
+  // counter=1;
+
+  // onItemAdded(product:Product ){
+    
+  // }
 }
