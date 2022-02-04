@@ -1,3 +1,8 @@
+Angular Lab5 with function of filter by category and tags && function of delete icon
+
+
+
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
